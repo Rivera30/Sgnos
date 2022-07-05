@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(imagen/walter.jpeg);   
+    background-size: cover;
+    background-position: center 1250px;
+    font-family: sans-serif;
+}
